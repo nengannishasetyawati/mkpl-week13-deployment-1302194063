@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/nengannishasetyawati/mkpl-week13-deployment-1302194063</url>
     </repository>
   </distributionManagement>
   
